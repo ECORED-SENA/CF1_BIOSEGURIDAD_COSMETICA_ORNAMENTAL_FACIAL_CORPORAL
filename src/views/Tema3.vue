@@ -33,7 +33,7 @@
             <br><br>           
             h2 Protección de cabeza
             p Dentro de este grupo, se clasifican los cascos, pasamontañas y cofias.
-            .row.p-4
+            .row.py-4
               .col-lg-3
                 img(src='@/assets/curso/tema2/img15.png')
       .col-lg-5(data-aos="fade-leftt") 
@@ -44,7 +44,7 @@
             h2 Gafas de seguridad 
             p En estos implementos, están los lentes de seguridad.
             br
-            .row.p-4
+            .row.py-4
               .col-3
                 img(src='@/assets/curso/tema2/img16.png')
     
@@ -57,7 +57,7 @@
             <br><br>           
             h2 Protección respiratoria
             p En este grupo, usted puede encontrar tapabocas desechables y reutilizables, protector respiratorio sin válvula para polvo.
-            .row.p-4
+            .row.py-4
               .col-lg-3
                 img(src='@/assets/curso/tema2/img15.png')
       .col-lg-5(data-aos="fade-left") 
@@ -68,7 +68,7 @@
             <br><br>           
             h2 Cuerpo
             p Algunos implementos son overol, chaqueta y pantalón térmico, arnés de seguridad, guantes (vaqueta, nitrilo, térmicos).
-            .row.p-4
+            .row.py-4
               .col-lg-3
                 img(src='@/assets/curso/tema2/img16.png')
     
@@ -81,7 +81,7 @@
             <br><br>           
             h2 Pies
             p Dentro de estos elementos, se encuentran medias térmicas, punteras de seguridad y botas de seguridad.
-            .row.p-4
+            .row
               .col-lg-3
                 img(src='@/assets/curso/tema2/img15.png')
       .col-lg-5(data-aos="fade-left") 
@@ -91,14 +91,14 @@
 
     p.mb-5 En el marco de este contexto normativo, es importante entender que los procedimientos y actividades que se realizan en el campo de la estética ornamental, facial y corporal deben realizarse en condiciones de seguridad, para minimizar los riesgos a los que se encuentran expuestos el personal y los usuarios. De acuerdo con las actividades que se realizan en el sector de salud y afines, los elementos de protección personal (EPP) son diseñados bajo estándares que permiten conservar la integridad física de los trabajadores y de los usuarios. Por lo general, las zonas que se encuentran más expuestas son las vías respiratorias y zonas cutáneas, por tanto, se debe contar con elementos especiales para el cuidado de las zonas como la boca, la nariz, los ojos y la piel expuesta. 
     br
-    .row  
+    .row.align-items-center  
       .col-lg-6(data-aos="fade-right") 
         span.etiqueta #[strong Se puede decir que las vías más comunes por donde ingresan al cuerpo los agentes químicos y biológicos son las vías respiratorias, la cutánea y por ingestión.]
         span . Es por esta razón que los equipos de protección personal deben ser adaptados a las características del contexto laboral de cada trabajador, siendo considerados como apropiados cuando realmente protegen y cumplen con su función de evitar la contaminación entre los agentes infecciosos hacia las mucosas, como, por ejemplo, la piel, los ojos, la boca y otras membranas. 
         <br><br><br>
         .row
           .col-lg-3
-            img(src='@/assets/curso/tema2/img21.png')
+            img(src='@/assets/curso/tema2/img21.svg')
           .col-lg-9
             p Es indispensable que la protección se dé por medio de elementos de barrera (biológicos y químicos) que ayuden a prevenir los riesgos asociados dentro del proceso de atención, en lo que respecta específicamente para este caso, el riesgo biológico. 
       .col-lg-6(data-aos="fade-left") 

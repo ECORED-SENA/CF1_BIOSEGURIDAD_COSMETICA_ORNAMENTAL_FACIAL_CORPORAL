@@ -5,7 +5,7 @@ export default {
     descripcionCurso:
       'El presente componente tiene como objetivo de aprendizaje el reconocimiento de las condiciones de la prestación de servicios del sector de la estética ornamental, cosmética facial y corporal, teniendo en cuenta normativa vigente. Para ello se ha diseñado un ambiente de aprendizaje en torno a temáticas relacionadas con la bioseguridad.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
   menuPrincipal: {
     menu: [
@@ -293,7 +293,7 @@ export default {
     {
       texto: 'Moscoso, J. (2020). Manual de Bioseguridad. El Cid Editor.',
       tipo: 'Libro digital',
-      descarga:
+      link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/171334',
     },
     {
