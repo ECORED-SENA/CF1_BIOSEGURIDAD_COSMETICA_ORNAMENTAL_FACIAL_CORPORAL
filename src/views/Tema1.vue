@@ -467,7 +467,7 @@
 
     .row.p-4.mb-4(data-aos="fade-right")   
       .col-lg-1.col-sm-3
-        img(src='@/assets/curso/tema1/img08.png')     
+        img(src='@/assets/curso/tema1/img08.svg')
       .col-lg-10
         br
         h3.mb-0 A continuación, se hará un resumen   
