@@ -516,7 +516,6 @@
           .col.mb-4.mb-md-0.p-4
             p Su propósito es prevenir, proteger y atender a los trabajadores de los efectos de las enfermedades y los accidentes que puedan ocurrirles con ocasión o como consecuencia del trabajo que desempeñan. La financiación de este sistema depende de la cotización obligatoria, la cual es definida por el nivel de ingreso y la clasificación del riesgo de acuerdo con la actividad que desempeña la persona. La entidad que es responsable de la  afiliación, el registro y el recaudo del dinero está a cargo de las administradoras de riesgos profesionales (ARP). 
 
-    separador
 </template>
 
 <script>

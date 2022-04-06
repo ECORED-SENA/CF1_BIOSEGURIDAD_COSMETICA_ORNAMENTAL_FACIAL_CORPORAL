@@ -103,7 +103,7 @@
             p Es indispensable que la protección se dé por medio de elementos de barrera (biológicos y químicos) que ayuden a prevenir los riesgos asociados dentro del proceso de atención, en lo que respecta específicamente para este caso, el riesgo biológico. 
       .col-lg-6(data-aos="fade-left") 
         img(src='@/assets/curso/tema3/img07.png')
-    separador
+
 </template>
 
 <script>

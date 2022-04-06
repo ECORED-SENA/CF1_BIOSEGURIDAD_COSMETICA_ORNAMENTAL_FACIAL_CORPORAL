@@ -338,7 +338,7 @@
 
     .cajon.color-primario.p-4.mb-4(data-aos="fade-right")           
       p Como información adicional, es importante tener presente que un incremento en la concentración o el volumen del material infeccioso provocará un efecto directo sobre la probabilidad de que ocurra un evento no deseado y, por tanto, el riesgo se incrementa. En Colombia, el Decreto 1543 de junio 12 de 1997 del Ministerio de Salud pone en manifiesto la obligación de las empresas del sector salud, o que realicen proceso de atención sanitaria, a trabajar en bioseguridad como un concepto especial para el tipo de riesgo que se maneja.
-    separador
+
 </template>
 
 <script>
