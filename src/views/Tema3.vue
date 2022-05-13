@@ -94,7 +94,7 @@
     .row.align-items-center  
       .col-lg-6(data-aos="fade-right") 
         span.etiqueta #[strong Se puede decir que las vías más comunes por donde ingresan al cuerpo los agentes químicos y biológicos son las vías respiratorias, la cutánea y por ingestión.]
-        span . Es por esta razón que los equipos de protección personal deben ser adaptados a las características del contexto laboral de cada trabajador, siendo considerados como apropiados cuando realmente protegen y cumplen con su función de evitar la contaminación entre los agentes infecciosos hacia las mucosas, como, por ejemplo, la piel, los ojos, la boca y otras membranas. 
+        span Es por esta razón que los equipos de protección personal deben ser adaptados a las características del contexto laboral de cada trabajador, siendo considerados como apropiados cuando realmente protegen y cumplen con su función de evitar la contaminación entre los agentes infecciosos hacia las mucosas, como, por ejemplo, la piel, los ojos, la boca y otras membranas. 
         <br><br><br>
         .row
           .col-lg-3

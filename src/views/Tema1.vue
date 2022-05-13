@@ -116,7 +116,7 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1. Apertura y funcionamiento: cosmética ornamental, facial y corporal 
 
-    p Los establecimientos dispuestos para ofertar servicios en cosmética ornamental facial y corporal deben limitar el alcance de sus funciones a unas actividades y elementos que se hace necesario que usted reconozca. Las actividades en cosmética ornamental, facial y corporal están orientadas a mejorar la imagen corporal de las personas que acuden a sus servicios. Para el área de cosmética facial y corporal existe un objetivo adicional y es el mejorar el estado de salud de los usuarios. Dados los objetivos a los cuales están enfocadas estás actividades de cosmética ornamental, facial y corporal, es necesario que sean realizadas en lugares especiales, tal y como lo decreta el Congreso de Colombia mediante la Ley 711 de 2001. 
+    p Los establecimientos dispuestos para ofertar servicios en cosmética ornamental, facial y corporal deben limitar el alcance de sus funciones a unas actividades y elementos que se hace necesario que usted reconozca. Las actividades en cosmética ornamental, facial y corporal están orientadas a mejorar la imagen corporal de las personas que acuden a sus servicios. Para el área de cosmética facial y corporal existe un objetivo adicional y es el mejorar el estado de salud de los usuarios. Dados los objetivos a los cuales están enfocadas estás actividades de cosmética ornamental, facial y corporal, es necesario que sean realizadas en lugares especiales, tal y como lo decreta el Congreso de Colombia mediante la Ley 711 de 2001. 
     br
     h5.mb-5 A continuación, se describen algunas actividades y premisas que debe considerar usted en el contexto de la cosmética en Colombia:
 
@@ -174,7 +174,7 @@
 
         .row.justify-content-center 
           .col-lg-10.mb-0
-            p Comprendidas las anteriores actividades y premisas, se presentan algunos procedimientos que se pueden ejecutar en los establecimientos dispuestos para ofertar servicios en cosmética ornamental facial y corporal.
+            p Comprendidas las anteriores actividades y premisas, se presentan algunos procedimientos que se pueden ejecutar en los establecimientos dispuestos para ofertar servicios en cosmética ornamental, facial y corporal.
             h5 Los procedimientos que puede realizar el cosmetólogo(a) son los siguientes:
           .col-lg-11.mb-4
             img(src='@/assets/curso/tema1/img22.png')
@@ -263,7 +263,7 @@
                   <br><br>
                   .row.align-items-center.justify-content-center.mb-4
                     .col-lg-4.col-sm-3
-                      <h4 align="right">Estética ornamental, fácil y corporal</h4>
+                      <h4 align="right">Estética ornamental, facial y corporal</h4>
                     .col-lg-2.col-sm-3
                       a.indicador__container(@click="modal3 = true")
                         img(src='@/assets/curso/tema1/img41.svg')  
@@ -367,7 +367,7 @@
     ModalA(:abrir-modal.sync="modal3")
       .row.justify-content-center
         .col-lg-11                       
-          p Las instalaciones físicas de la estética ornamental, fácil y corporal deben garantizar servicios de agua y alcantarillado para una adecuada bioseguridad. Algunos elementos a tener cuenta  son: unidad sanitaria, áreas de aseo personal, área de asepsia, guarda ropas, toallas y otros, según la actividad.
+          p Las instalaciones físicas de la estética ornamental, facial y corporal deben garantizar servicios de agua y alcantarillado para una adecuada bioseguridad. Algunos elementos a tener cuenta  son: unidad sanitaria, áreas de aseo personal, área de asepsia, guarda ropas, toallas y otros, según la actividad.
     ModalA(:abrir-modal.sync="modal4")
       .row.justify-content-center
         .col-lg-11                       
@@ -376,7 +376,7 @@
     ModalA(:abrir-modal.sync="modal5")
       .row.justify-content-center
         .col-lg-11                        
-          p Tanto la resolución 2117 de 2010 como la 2263 de 2004 coinciden en que las instalaciones físicas en el contexto de la estética ornamental, fácil y corporal  deberán contar con una red eléctrica de acuerdo con las necesidades del establecimiento y con conexión a tierra. La dotación de energía de estos lugares permite el uso de tecnologías adquiridas por cada actividad estética.
+          p Tanto la resolución 2117 de 2010 como la 2263 de 2004 coinciden en que las instalaciones físicas en el contexto de la estética ornamental, facial y corporal  deberán contar con una red eléctrica de acuerdo con las necesidades del establecimiento y con conexión a tierra. La dotación de energía de estos lugares permite el uso de tecnologías adquiridas por cada actividad estética.
     ModalA(:abrir-modal.sync="modal6")
       .row.justify-content-center
         .col-lg-11                        
@@ -384,7 +384,7 @@
     ModalA(:abrir-modal.sync="modal7")
       .row.justify-content-center
         .col-lg-11                        
-          p En la estética ornamental, facial y corporal, se debe asegurar la implementación de un programa de desinfección ambiental y control de vectores o plagas que garantice que el establecimiento permanezca libre de artrópodos y roedores. La frecuencia de este programa no será menor de una (1) vez por año para la estética ornamental, fácil y corporal. En la estética facial y corporal, se sugiere una frecuencia no menor de tres (3) veces por año.
+          p En la estética ornamental, facial y corporal, se debe asegurar la implementación de un programa de desinfección ambiental y control de vectores o plagas que garantice que el establecimiento permanezca libre de artrópodos y roedores. La frecuencia de este programa no será menor de una (1) vez por año para la estética ornamental, facial y corporal. En la estética facial y corporal, se sugiere una frecuencia no menor de tres (3) veces por año.
     ModalA(:abrir-modal.sync="modal8")
       .row.justify-content-center
         .col-lg-11                        
@@ -509,7 +509,7 @@
       .py-4.py-md-5(titulo="Sistema General de Pensiones" :icono="require('@/assets/curso/tema1/img53.svg')")
         .row
           .col.mb-4.mb-md-0.p-4
-            p Este garantiza a la población la cobertura contra los eventos derivados de la vejez, la invalidez y la muerte, por medio del reconocimiento de las pensiones y prestaciones. Este sistema de pensiones está compuesto por dos regímenes solidarios excluyentes pero que coexisten. El primero es el régimen solidario de prima media con prestación definida, que es de carácter público y es administrado por colpensiones. El segundo es el régimen de ahorro individual con solidaridad, que es de carácter privado y es operado por las administradoras de fondos de pensiones y cesantías. 
+            p Este garantiza a la población la cobertura contra los eventos derivados de la vejez, la invalidez y la muerte, por medio del reconocimiento de las pensiones y prestaciones. Este sistema de pensiones está compuesto por dos regímenes solidarios excluyentes pero que coexisten. El primero es el régimen solidario de prima media con prestación definida, que es de carácter público y es administrado por Colpensiones. El segundo es el régimen de ahorro individual con solidaridad, que es de carácter privado y es operado por las administradoras de fondos de pensiones y cesantías. 
       .py-4.py-md-5(titulo="Sistema General de Riesgos Laborales" :icono="require('@/assets/curso/tema1/img54.svg')")
         .row
           .col.mb-4.mb-md-0.p-4
@@ -518,12 +518,9 @@
 </template>
 
 <script>
-import Muestras from '../components/Muestras' // borrar una vez el componente "Muestras" no se necesite
 export default {
   name: 'Tema1',
-  components: {
-    Muestras, // borrar una vez el componente "Muestras" no se necesite
-  },
+  components: {},
   data: () => ({
     modal1: false,
     modal2: false,
