@@ -14,7 +14,7 @@
       .col-10
         figure.mb-5(data-aos="flip-up")
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/1HIukxy-q0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)         
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/MKVKHXvxKjI?si=VGoDAx-L1vKRstk1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)         
     br    
     .row.justify-content-center.BG01.mb-5.p-5(data-aos="fade-right")
       .col-11
